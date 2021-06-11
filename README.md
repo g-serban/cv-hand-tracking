@@ -1,1 +1,1 @@
-# cv-hand-tracking
+# computer-vision
